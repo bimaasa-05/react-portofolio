@@ -8,6 +8,7 @@ import {
 	BsChevronDown,
 } from "react-icons/bs";
 import { SiLaravel } from "react-icons/si";
+import profileImg from "../assets/profile.jpeg";
 
 function Hero() {
 	return (
@@ -62,6 +63,11 @@ function Hero() {
 									<div className="browser-mock-body">
 										<div className="profile-frame">
 											<div className="profile-fallback">C</div>
+											<img
+												src={profileImg}
+												alt="Foto Profil Cahya Rizqon"
+												className="profile-img"
+											/>
 										</div>
 									</div>
 								</div>
