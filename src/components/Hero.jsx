@@ -66,7 +66,7 @@ function Hero() {
 											<img
 												src={profileImg}
 												alt="Foto Profil Cahya Rizqon"
-												className="profile-img"
+												className="profile.jpeg"
 											/>
 										</div>
 									</div>
