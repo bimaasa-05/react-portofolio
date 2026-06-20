@@ -65,7 +65,7 @@ function Hero() {
 											<div className="profile-fallback">C</div>
 											<img
 												src={profileImg}
-												alt="Foto Profil Cahya Rizqon"
+												alt="Foto Profil Cahya Rizqon GG"
 												className="profile-photo"
 											/>
 										</div>
